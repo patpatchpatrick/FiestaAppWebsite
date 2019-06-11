@@ -10,7 +10,7 @@ Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to any user data collected via Firebase. The information that I request is retained on your device and is not collected by me in any way
 
-The app will also collect data related to events that are created by the user.  The only user data that is currently collected and stored in Firebase is the user's Firebase user id which is used to keep track of the user's favorite events, events which they are attending and events which they have created.  
+The app will also collect data related to events that are created by the user.  The only user data that is currently collected and stored in Firebase is the user's Firebase user id which is used to keep track of the user's favorite events, events which they are attending and events which they have created, and also the user's username that they manually choose.    
 
 The app does offer the user the ability to delete all collected data associated with their account.  This option is available under the Settings menu of the app, and will fully delete all user data from the Firebase data storage.  
 
