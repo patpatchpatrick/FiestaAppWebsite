@@ -10,9 +10,9 @@ Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to any user data collected via Firebase. The information that I request is retained on your device and is not collected by me in any way
 
-The app will also collect data related to events that are created by the user.  The only user data that is currently collected and stored in Firebase is the user's Firebase user id which is used to keep track of the user's favorite events, events which they are attending and events which they have created, and also the user's username that they manually choose.    
+The app will also collect data related to events that are created by the user.  The only user data that is currently collected and stored in Firebase is the user's Firebase user id (which is used to keep track of the user's favorite events, events which they are attending and events which they have created), the user's username that they manually choose, the user's name which they can optionally enter, and the user's profile photo.  All of these fields are used to make the app a more personal experience when following and connecting with friends.  It is possible to make your account private to prevent others from seeing this information unless you approve their follow request.  It is also possible to remove/change your name and change your profile photo at any time within the settings screen of the app.        
 
-The app does offer the user the ability to delete all collected data associated with their account.  This option is available under the Settings menu of the app, and will fully delete all user data from the Firebase data storage.  
+The app does offer the user the ability to delete all collected data associated with their account.  This option is available under the Settings menu of the app, and will fully delete all user data from the Firebase data storage.  The user can also update their name and profile photo at any time from the settings screen of the app.  Both of these pieces of data are optional for the user to enter.   
 
 The app does use third party services that may collect information used to identify you.
 
